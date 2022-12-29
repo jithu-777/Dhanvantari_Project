@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hii Dhanvantari Family Members</h1>
+    <h1>Hiii Dhanvantari Family Members</h1>
     <h1>Dhanvantari Registration for AWS & DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
